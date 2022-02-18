@@ -1,0 +1,66 @@
+{
+  "title": "Projects",
+  "description": "These are some projects that I made during my career.",
+  "list": [
+    {
+      "description": "Website for a blockchain company",
+      "skills": ["Wordpress"],
+      "isLocked": false,
+      "name": "UNBLOCKED - Website",
+      "image": "/images/projects/unblocked.png",
+      "imageGif": "/images/projects/unblocked.png",
+      "hosting": "https://unblocked-group.com/",
+      "repository": "https://github.com/yanisjdz"
+    },
+    {
+      "description": "Web 3.0 AVAX Project",
+      "skills": ["React.js", "Javascript"],
+      "isLocked": false,
+      "name": "AVAX Project",
+      "image": "/images/projects/avax.png",
+      "imageGif": "/images/projects/avax.png",
+      "repository": "https://github.com/yanisjdz"
+    },
+    {
+      "description": "School project : create a StackOverFlow for the school",
+      "skills": ["Javascript", "HTML", "CSS", "Bootstrap", "Node.Js", "MongoDB", "Express"],
+      "isLocked": false,
+      "name": "CoverFlow",
+      "image": "/images/projects/coverflow.png",
+      "imageGif": "/images/projects/coverflow.gif",
+      "repository": "https://github.com/yanisjdz"
+    },
+    {
+      "description": "Hybrid mobile app. To make life easier by creating lists for customer: a to buy list and a stock list",
+      "skills": ["React Native", "Redux", "TypeScript", "Expo"],
+      "isLocked": false,
+      "name": "Stockomania",
+      "image": "/images/projects/stock.png",
+      "imageGif": "/images/projects/stock.gif",
+      "repository": "https://github.com/YanisJdz/stock"
+    },
+    {
+      "description": "A place where you can learn make up lessons, from professionals",
+      "skills": ["Wordpress"],
+      "isLocked": true,
+      "name": "Make-up learning platform",
+      "image": "/images/projects/comingsoon.png",
+      "imageGif": "/images/projects/comingsoon.png",
+      "hosting": "https://filolinko.web.app/",
+      "repository": "https://github.com/yanisjdz"
+    },
+    {
+      "description": "My Portfolio",
+      "skills": [
+        "React.js",
+        "Javascript"
+      ],
+      "isLocked": true,
+      "name": "This website 🤣",
+      "image": "/images/projects/comingsoon.png",
+      "imageGif": "/images/projects/comingsoon.png",
+      "hosting": "https://netflix-cloney.web.app/",
+      "repository": "https://github.com/yanisjdz"
+    }
+  ]
+}

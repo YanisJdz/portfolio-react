@@ -1,0 +1,64 @@
+.modal-style {
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  background-color: white;
+  padding: 34px 24px 34px 24px;
+  width: 90%;
+  max-width: 768px;
+  overflow: auto;
+  height: fit-content;
+  max-height: 100%;
+}
+
+.overlay-style {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 10;
+  height: 100%;
+}
+.modal-image {
+  margin-bottom: 16px;
+  width: 100% !important;
+  border: 1px solid white;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 100%;
+  font-size: 12px;
+}
+.fa-times {
+  position: fixed;
+  color: red;
+  top: 3px;
+  right: 8px;
+}
+.pill {
+  border: 1px solid gray;
+  color: gray;
+  margin: 4px;
+  border-radius: 25px;
+  padding: 5px 10px 5px 10px;
+}
+
+.modal-text {
+  max-width: 500px;
+}
+.fa-github,
+.fa-globe {
+  margin-right: 8px;
+}

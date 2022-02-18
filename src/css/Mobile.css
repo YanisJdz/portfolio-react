@@ -1,0 +1,68 @@
+@media screen and (max-width: 476px) {
+  .desktop {
+    display: none;
+  }
+  h1 {
+    font-size: 34px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+  h3 {
+    font-size: 17px;
+  }
+  p {
+    font-size: 17px;
+  }
+}
+@media screen and (min-width: 477px) {
+  .mobile {
+    display: none;
+  }
+}
+.logo-img {
+  width: 44px !important;
+  height: 44px !important;
+  margin-top: 6px !important;
+}
+.logo {
+  margin-top: 8px !important;
+}
+
+.mobile ul {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+  background-image: linear-gradient(
+    to right,
+    rgba(133, 255, 189, 0.9) 0%,
+    rgba(255, 251, 125, 0.9) 100%
+  );
+  border-radius: 25px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.mobile ul li {
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  font-size: 11px;
+  width: 100%;
+}
+
+.mobile {
+  position: fixed;
+  top: 0;
+  z-index: 5;
+  width: 100%;
+  margin-top: 16px;
+}
+
+.mobile .form-inline {
+  border: 2px solid red;
+}

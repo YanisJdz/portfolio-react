@@ -1,0 +1,50 @@
+{
+  "title": "Tech",
+  "description": "Technologies that I'm comfortable with.",
+  "list": [
+    {
+      "name": "HTML",
+      "image": "/images/tech/html.png"
+    },
+    {
+      "name": "Javascript",
+      "image": "/images/tech/javascript.png"
+    },
+    {
+      "name": "CSS",
+      "image": "/images/tech/css.png"
+    },
+    {
+      "name": "Angular",
+      "image": "/images/tech/angular.png"
+    },
+    {
+      "name": "Vue.js",
+      "image": "/images/tech/vuejs.png"
+    },
+    {
+      "name": "React.js / Native",
+      "image": "/images/tech/react.png"
+    },
+    {
+      "name": "Typescript",
+      "image": "/images/tech/ts.png"
+    },
+    {
+      "name": "C",
+      "image": "/images/tech/c.png"
+    },
+    {
+      "name": "Java",
+      "image": "/images/tech/java.png"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "/images/tech/bootstrap.png"
+    },
+    {
+      "name": "Figma",
+      "image": "/images/tech/figma.png"
+    }
+  ]
+}
